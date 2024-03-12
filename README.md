@@ -13,5 +13,6 @@ Este é um projeto de testes da Escola Korú
 - git checkout -b <nome-branch>
 - git pull
 - git pull origin <nome-branch>
+- git reset --soft HEAD~1
 
 
